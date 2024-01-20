@@ -1,2 +1,2 @@
 # Spotify-Trend-Prediction
- Prediction of Future Trend for Spotify Songs Based on the Duration and Beats Per Minute from 2015 to 2019
+This is a prediction of the future song trend based on the duration and beats-per-minute (bpm) of songs from years 2015 until 2019. This is necessary to see the correlation between the top 20 songs for each year and two significant attributes of the song (tempo and duration) and to see whether it affects the ranking or not. The dataset is retrieved from https://bit.ly/32O0pwH where useful attributes will be used to analyze the topic. In this case, the attributes title, artist, year, bpm, dur, and pop are used to make the predictive model of future trends for Spotify songs.
